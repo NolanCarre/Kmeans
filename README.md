@@ -10,7 +10,17 @@ L'objectif de ce projet est de proposer un k-means clustering de Brisbane City B
  Ou taper : sh main.sh (Moins lisible).
  
 # Clustering
+## Application de la methode K-means
+<img src="Output/Clustering.png" 
+  style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
+  
+  ## Les 3 cluster obtenus
+<img src="Output/Mean_Cluster.png" 
+  style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
+  
+  ## Affichage de la position des clusters à Brisbane
+<img src="Output/Map.png" 
+  style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
 
 
-## Remarques
-Le choix entre Numpy et Spark doit se faire en fonction des besoins. Si le nombre de données est élevé il est
+
