@@ -8,8 +8,6 @@ L'objectif de ce projet est de proposer un k-means clustering de Brisbane City B
  - jupyter nbconvert --to python Script/Spark_Kmeans.ipynb
  - python Script/Spark_Kmeans.ipynb 
  
- Ou taper : sh main.sh (Moins lisible).
- 
 # Clustering
 ## Application de la methode K-means
 <img src="Output/Clustering.png" 
