@@ -13,7 +13,7 @@ L'objectif de ce projet est de proposer un k-means clustering de Brisbane City B
 <img src="Output/Clustering.png" 
   style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
   
-  ## Les 3 cluster obtenus
+  ## Les 3 clusters obtenus
 <img src="Output/Mean_Cluster.png" 
   style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
   
@@ -21,6 +21,6 @@ L'objectif de ce projet est de proposer un k-means clustering de Brisbane City B
 <img src="Output/Map.png" 
   style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
 
-#Remarque 
+# Remarque 
 Un fichier contenant le data frame "fitted" est créé dans un dossier nommé "Exported" (dans le dossier Kmeans) suite à l'exécution du script.
 
