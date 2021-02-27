@@ -6,7 +6,7 @@ L'objectif de ce projet est de proposer un k-means clustering de Brisbane City B
  - git clone  https://github.com/NolanCarre/Kmeans.git
  - cd Kmeans 
  - jupyter nbconvert --to python Script/Spark_Kmeans.ipynb
- - python Script/Spark_Kmeans.ipynb 
+ - python Script/Spark_Kmeans.py
  
 # Clustering
 ## Application de la methode K-means
